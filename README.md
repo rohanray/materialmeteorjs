@@ -1,6 +1,6 @@
-## Support & Documentation
-
-Meteor documentation can be found at http://docs.meteor.com/
+# Support & Documentation
+# WIP - Needs update
 =======
-# materialmeteorjs
-# Material design icons being used from http://materialdesignicons.com/
+## materialmeteorjs
+## Material design framwework being used materializecss.com 
+## Material design icons being used from http://materialdesignicons.com/
